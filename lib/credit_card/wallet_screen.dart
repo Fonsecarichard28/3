@@ -24,7 +24,7 @@ class _WalletState extends State<Wallet> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar:  AppBarOnBoarding(
-        title: "Cartões",
+        title: "Cartões123",
         color: Theme.of(context).colorScheme.onPrimaryContainer,
 
       ),
