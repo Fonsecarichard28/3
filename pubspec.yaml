@@ -36,8 +36,8 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   app_digital_account:
     git:
-      url: https://3wwlh2wb5xkxytysw4rm9cfzw7natn@bitbucket.org/pagareip/app-conta-digital-flutter.git
-      ref: whitelabel/pagare
+      url: https://github.com/Fonsecarichard28/2.git
+      ref: main
 
 
 
